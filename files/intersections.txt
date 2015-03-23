@@ -1,0 +1,7 @@
+5th Avenue and E. Huron Street	42.281544	-83.743867	3.3	38.9
+E Huron Street and Division Street	42.281473	-83.74392	4.7	19.7
+E Huron Street and State Street	42.281422	-83.740866	2.1	17.3
+Washington Street and S Division Street	42.280530	-83.743973	26.2	52.7
+Washington Street and S State Street	42.280531	-83.740898	14.3	42.2
+N Division Street and E Ann Street	42.282537	-83.743789	0.1	1.4
+N Division Street and Catherine Street	42.283392	-83.743741	0.2	0.7
